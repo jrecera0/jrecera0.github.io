@@ -24,7 +24,7 @@ github_username:  jrecera0
 
 # Build settings
 markdown: kramdown
-theme: forty_jekyll_theme
+remote_theme: andrewbanchich/forty-jekyll-theme
 plugins:
   - jekyll-feed
 
