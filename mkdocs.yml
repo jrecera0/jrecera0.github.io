@@ -1,0 +1,56 @@
+site_name: Eagle Army 3488 Docs
+nav:
+  - Home: index.md
+  - Weekly Notes:
+    - Week 0: _admin/weekly-notes/05_29_23.md
+    - Week 1: _admin/weekly-notes/05_30_23.md
+    - Week 2: _admin/weekly-notes/06_06_23.md
+  - Fox Box:
+    - _admin/fox-box/index.md
+    - Planning for Week 1: _admin/fox-box/06_01_23.md
+    - TODO List for Week 2: _admin/fox-box/06_10_23.md
+    - Pre-Week 2 Meeting: _admin/fox-box/06_12_23.md
+  - Info:
+    - _admin/info/index.md
+    - Features: _admin/info/features.md
+    - Guidelines: _admin/info/guidelines.md
+    - Timeline: _admin/info/timeline.md
+    - Categories: _admin/info/categories.md
+  - Getting Started:
+    - getting-started/index.md
+    - WPILib: getting-started/wpilib.md
+    - Libraries: getting-started/libraries.md
+  - Project-Organization:
+    - project-organization/index.md
+  - Autonomous:
+    - autonomous/index.md
+  - Computer Vision:
+    - computer-vision/index.md
+  - PID Control:
+    - pid-control/index.md
+  - Basic Tutorials:
+    - code-examples/index.md
+  - Controls:
+    - controls/index.md
+  - Maintainance:
+    - maintainance/index.md
+  - Resources:
+    - resources/index.md
+
+theme:
+  name: material
+  palette: 
+    scheme: slate
+    primary: indigo
+    accent: yellow
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.indexes
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
