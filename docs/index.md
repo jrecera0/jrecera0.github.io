@@ -3,6 +3,8 @@
 ## Welcome!
 Weclome to the Eagle Army 3488 website for documentation! This site contains info on getting started with robot software development, background on more advanced topics and features, as well as other tidbits that we picked up while being a part of the team.
 
+@Ollie here's the repository: https://github.com/jrecera0/jrecera0.github.io/
+
 ![Logo Placeholder](_assets/EAGLE-ARMY-5-T.png)
 
 Notice any issues or wish to add more info that may benefit future members? Feel free to contribute by making a pull request or by contacting any one of us at [insert contacts here]!
@@ -15,9 +17,9 @@ Completely new to programming? Check out [Resources](resources/index.md) on wher
 # Administrative stuff
 
 ## @Documentation Team
-* [Timeline](_admin/info/timeline.md) - Create a new project.  
-* [Categories](_admin/info/categories.md) - Start the live-reloading docs server.
-* [Writing Guidelines](_admin/info/guidelines.md) - Build the documentation site.
+* [Timeline](_admin/info/timeline.md)
+* [Categories](_admin/info/categories.md)
+* [Writing Guidelines](_admin/info/guidelines.md)
 * Weekly notes will also be posted from each meeting, just keep an eye on the `_admin` folder.
 
 ## Project layout
